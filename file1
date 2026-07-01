@@ -6,7 +6,7 @@ def add_numbers(a, b):
 
 def main():
     print("Hello, World!")
-    port="8000"
+    port="5000"
 
     num1 = 10
     num2 = 2
